@@ -1,0 +1,23 @@
+{
+    "name": "firstserver",
+    "version": "1.0.0",
+    "description": "firstserver",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pcarmichael22/301d50-firstServer.git"
+    },
+    "author": "Peter Carmichael",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pcarmichael22/301d50-firstServer/issues"
+    },
+    "homepage": "https://github.com/pcarmichael22/301d50-firstServer#readme",
+    "dependencies": {
+        "dotenv": "^8.0.0",
+        "express": "^4.17.1"
+    }
+}
